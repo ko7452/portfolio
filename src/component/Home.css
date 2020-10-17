@@ -20,7 +20,7 @@
   letter-spacing: 0.1rem;
   padding-top: 0.2em;
   overflow: hidden;
-  animation: typingAni 3s steps(50, end) 1;
+  /* animation: typingAni 3s steps(50, end) 1; */
 }
 .typer-text ::after {
   width: 20px;
