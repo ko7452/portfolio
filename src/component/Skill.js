@@ -6,7 +6,7 @@ import css from "../images/css.png";
 import js from "../images/js.png";
 import reactImg from "../images/reactImg.png";
 import redux from "../images/redux.png";
-import reactNative from "../images/reactNative.png";
+// import reactNative from "../images/reactNative.png";ㅁ
 
 import nodejs from "../images/nodejs.png";
 import mySQL from "../images/mySQL.png";
@@ -54,7 +54,7 @@ const Skill = () => {
               </button>
               <h4>HMTL/CSS</h4>
               <h4>Javascript(ES6)</h4>
-              <h4>React</h4>
+              <h4>React / React Native</h4>
               <h4>Redux</h4>
               <div class="front-logo">
                 <img src={html} width="50" height="50" />
