@@ -42,6 +42,7 @@
   flex-direction: column;
   display: flex;
   height: 30vh;
+  font-style: normal;
 }
 .photo {
   opacity: 0.93;
