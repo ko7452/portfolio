@@ -53,3 +53,10 @@
 .photo-inner {
   margin: 0;
 }
+/* 명함 간격 조정 */
+.box-margin {
+  margin-left: 10%;
+}
+.box-margin02 {
+  margin-right: 10%;
+}

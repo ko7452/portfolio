@@ -13,13 +13,13 @@ const About = () => {
           <div class="about-contact-box">
             <div class="about-info-box">
               <div class="about-contact-box-wraper02">
-                <div>
+                <div class="box-margin">
                   <h2>신입 Front-End 개발자</h2>
                   <h3>고윤혁</h3>
                   <p>HP: 010 - 9800 - 5226</p>
                   <p>e-mail: sksgur3217@gmail.com</p>
                 </div>
-                <div>
+                <div class="box-margin02">
                   <img src={Photo} width="162.61" height="215.92" />
                 </div>
               </div>
